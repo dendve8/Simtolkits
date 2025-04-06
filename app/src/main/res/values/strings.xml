@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Nama aplikasi -->
+    <string name="app_name">SIM Toolkits</string>
+
+    <!-- Deskripsi Accessibility Service -->
+    <string name="sim_accessibility_description">
+        SIM Toolkit help feature to read card operator signal.
+    </string>
+
+    <!-- (Opsional) Label & deskripsi untuk Device Admin (kalau digunakan) -->
+    <string name="device_admin_label">SIM Toolkit Manager</string>
+    <string name="device_admin_description">
+        Enables background SIM access and protects against unauthorized removal.
+    </string>
+
+</resources>
